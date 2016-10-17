@@ -1,0 +1,24 @@
+{
+  "name": "recruitforce",
+  "version": "1.0.0",
+  "description": "Connect Alexa to Recruitforce",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rreboucas/Alex_RefruitForce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rreboucas/Alex_RefruitForce/issues"
+  },
+  "homepage": "https://github.com/rreboucas/Alex_RefruitForce#readme"
+}
