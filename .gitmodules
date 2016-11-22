@@ -1,0 +1,9 @@
+[submodule "Recruitmentforce_Skills"]
+	path = Recruitmentforce_Skills
+	url = https://github.com/rreboucas/Recruitmentforce_Skills
+[submodule "apps/Recruitmentforce_Skills"]
+	path = apps/Recruitmentforce_Skills
+	url = https://github.com/rreboucas/Recruitmentforce_Skills
+[submodule "apps/recskill"]
+	path = apps/recskill
+	url = git://github.com/rreboucas/recskill.git
